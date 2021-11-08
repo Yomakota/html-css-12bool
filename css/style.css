@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+}
+
+.nest {
+    padding: .5em;
+    box-sizing: border-box;
+    font-weight: solid;
+}
+
+.nested {
+    height: 100%;
+    background-color: rgba(97, 209, 97, 0.945);
+    border: 1px solid rgb(0, 119, 255);
+}
+
+.ex-2 {
+    margin-top: 2em;
+}
