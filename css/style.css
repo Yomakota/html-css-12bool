@@ -15,7 +15,6 @@ html {
 .nest {
     padding: .5em;
     box-sizing: border-box;
-    font-weight: solid;
 }
 
 .nested {
