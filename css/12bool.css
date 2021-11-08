@@ -17,6 +17,10 @@
     color: white;
 }
 
+.container-for-media-query {
+    margin-top:3em;
+}
+
 .col-1 {
     flex-basis: calc(100% / 12);
     max-width: calc(100% / 12);
